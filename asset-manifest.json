@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/language-tester/static/css/main.e6c13ad2.css",
+    "main.js": "/language-tester/static/js/main.db78c589.js",
+    "static/js/453.977854b9.chunk.js": "/language-tester/static/js/453.977854b9.chunk.js",
+    "static/media/genesys.svg": "/language-tester/static/media/genesys.0ac7f684ad62d585db2ad00c3047d878.svg",
+    "index.html": "/language-tester/index.html",
+    "main.e6c13ad2.css.map": "/language-tester/static/css/main.e6c13ad2.css.map",
+    "main.db78c589.js.map": "/language-tester/static/js/main.db78c589.js.map",
+    "453.977854b9.chunk.js.map": "/language-tester/static/js/453.977854b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.db78c589.js"
+  ]
+}
