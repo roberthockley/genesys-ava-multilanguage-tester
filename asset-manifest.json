@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/genesys-ava-multilanguage-tester/static/css/main.e6c13ad2.css",
-    "main.js": "/genesys-ava-multilanguage-tester/static/js/main.a2cfa3a5.js",
+    "main.js": "/genesys-ava-multilanguage-tester/static/js/main.241aa398.js",
     "static/js/453.977854b9.chunk.js": "/genesys-ava-multilanguage-tester/static/js/453.977854b9.chunk.js",
     "static/media/genesys.svg": "/genesys-ava-multilanguage-tester/static/media/genesys.0ac7f684ad62d585db2ad00c3047d878.svg",
     "index.html": "/genesys-ava-multilanguage-tester/index.html",
     "main.e6c13ad2.css.map": "/genesys-ava-multilanguage-tester/static/css/main.e6c13ad2.css.map",
-    "main.a2cfa3a5.js.map": "/genesys-ava-multilanguage-tester/static/js/main.a2cfa3a5.js.map",
+    "main.241aa398.js.map": "/genesys-ava-multilanguage-tester/static/js/main.241aa398.js.map",
     "453.977854b9.chunk.js.map": "/genesys-ava-multilanguage-tester/static/js/453.977854b9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.a2cfa3a5.js"
+    "static/js/main.241aa398.js"
   ]
 }
